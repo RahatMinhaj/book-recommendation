@@ -1,0 +1,13 @@
+package com.minhaz.bookrecommendation;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SearchHistoryRecommendationSystemApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
